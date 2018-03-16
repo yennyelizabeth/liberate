@@ -58,6 +58,12 @@ Un punto crítico es la parte de agendar citas.
 ### Necesidad de mejorar la propuesta de valor
 Agendar citas según el estilo de vida de los usuarios y sin mucha interacción.
 
+# MODELO DE NEGOCIO
+Se identificó y elaboró un modelo de negocios.
+
+| Entregable | Documentación  |
+| ----       | ----           |
+| **Modelo de Negocio** | https://canvanizer.com/canvas/wKUTJtzmNCyw6  |
 
 
 # PROCESO RESEARCH
