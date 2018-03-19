@@ -108,6 +108,6 @@ Se ha elaborado un usuario de persona para caracterizar los tipos de usuario
 
 Se ha elaborado un prototipo en papel
 
-![Inicio](assets/prototipo/papel-01.png)
+![Inicio](assets/prototipo/papel-01.jpg)
 
 
