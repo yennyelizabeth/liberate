@@ -104,5 +104,10 @@ Se ha elaborado un usuario de persona para caracterizar los tipos de usuario
 | ----       | ----           |
 | **User persona** |https://realtimeboard.com/app/board/o9J_kztSo_g=/?userEmail=yenny.quinones.jauregui@gmail.com&invite=2aaaaaaac10619b775f3ed210389ddc7-d48566c71733252-3783eecbcb89f49-58e0f0663eb6af1e&event=mailInvite&mailUserEmail=yenny.quinones.jauregui@gmail.com&track=true |
 
+# PROTOTIPO
+
+Se ha elaborado un prototipo en papel
+
+![Inicio](assets/prototipo/papel-01.png)
 
 
