@@ -3,6 +3,9 @@ Es una app
 
 ![Inicio](assets/inicio.png)
 
+![Inicio](assets/prototipo/pantalla1.png)
+![Inicio](assets/prototipo/pantalla2.png)
+
 ## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
 
 ## En  [Peru](http://peru.com)
