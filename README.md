@@ -118,6 +118,8 @@ Se ha elaborado un prototipo en papel
 # DEMO
 
 Utilizando marvel se ha elaborado una demo del prototipo: 
-https://marvelapp.com/4jcf5ad
+https://marvelapp.com/4jcf5ad/screen/40108295
+
+
 
 
