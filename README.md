@@ -13,7 +13,6 @@ por los profesionales psicólogos independientes y pacientes que soliciten agend
 
 # 🚩 Tabla de contenido
 
-
 - [NECESIDAD DE RESOLVER UN PROBLEMA](#necesidad-de-resolver-un-problema)
 - [MODELO DE NEGOCIO](#modelo-de-negocio)
 - [STAKEHOLDERS](#stakeholders)
@@ -26,31 +25,50 @@ por los profesionales psicólogos independientes y pacientes que soliciten agend
 - [USER PERSONAS](#-user-personas)
 - [CARACTERÍSTICAS DEL PRODUCTO](#-características-del-producto)
 
+## Necesidad de resolver un Problema
 
-## NECESIDAD DE RESOLVER UN PROBLEMA
-
+### Para quiénes?
 | Clientes(usuarios) |Descripción  | Necesidad relacionada |
 | ---- | ---- | ---- |
 | **Paciente**  |Profesionales de psicología que brindan servicios|Agendar una cita de psicología|
 | **Psicólogo** |Personas que solicitan servicios de psicología |Agendar las citas de psicología |
 
+### Identificación de punto crítico en servicio de citas psicológicas
+Dentro del servicio de atención psicológica con psicólogos independientes, 
+un punto crítico es la parte de agendar citas.
 
-## Tecnología (2)
-### Herramientas Tecnológicas Utilizadas actualmente
-Todas las herramientas de tecnología utilizadas, para realizar la agenda de citas.
+### Contexto de Necesidades vs Usuarios
 
-### Nececidad de Tecnología
-Tecnología fácil de usar.
+| Cita Psicológica |Tecnología  | Descripción |
+| ---- | ---- | ---- |
+| **Agendar convencional**|Presencial | Requiere la recomendación y desplazamiento físico  |
+| **Agendar convencional**|Vía Teléfono | Requiere la recomendación y saber el nro de teléfono |
+| **Agendar através de web**|Vía Web  | Requiere tener una conexión a internet, una computadora, esperar una llamada ó/y email de confirmación  |
+| **Agendar através de movile** |Vía Movile | Requiere una llamada y email de confirmación   |
 
-## Negocio
-### Servicio de atención psicológica
-Atención psicológica con psicólogos independientes.
-Un punto crítico es la parte de agendar citas.
+### Problema
+Agendar una cita implica para el psicólogo independiente
+- Organización manual
+- Encargar a una recepcionista
+- Constante coordinación con paciente para confirmación de cita
 
-### Necesidad de mejorar la propuesta de valor
-Agendar citas según el estilo de vida de los usuarios y sin mucha interacción.
+Agendar una cita implica para el cliente ( paciente)
+- No tienen tiempo
+- Recomendación de experticia
+- Búsqueda del psicólogo adecuado
+- Diversidad de tarifas de sesiones
+- Horarios noche o de fines de semana
 
-## MODELO DE NEGOCIO
+Conclusiones 
+Diseñar una agenda de cita psicológicas
+- Sea fácil de usar
+- Reuna información relevante para escoger psicólogo
+- Mínimo tiempo para realizar las coordinaciones para confirmación
+- Información para elección por : servicio, ubicación, tarifa sesión
+
+
+## Model de Negocio
+
 Se identificó y elaboró un modelo de negocios.
 
 | Entregable | Documentación  |
@@ -58,16 +76,16 @@ Se identificó y elaboró un modelo de negocios.
 | **Modelo de Negocio** | https://canvanizer.com/canvas/wKUTJtzmNCyw6  |
 
 
-## PROCESO RESEARCH
+## Proceso Research
 
-## Plan Research
+### Plan Research
 Se elaboró un plan research , para conducir el proceso de investigación.
 
 | Entregable | Documentación  |
 | ----       | ----           |
 | **Plan Research** | https://docs.google.com/spreadsheets/d/1ELWfl1ws42sKunY-1b8Ck3FLGI6vIhlAEbsNI58uX3Y/edit#gid=0|
 
-## Cuantitativo
+#### Cuantitativo
 - Se realizó una recopilación de soluciones y data ya existentes.
 - Asimismo se revisó información estadística de la oferta y demanda de atenciones psicológicas en el país.
 
@@ -103,7 +121,7 @@ De la demanda de atenciones psicológicas:
 | ----       | ----           |
 | **Cuantitativo** | https://drive.google.com/open?id=1DX7bC1Ke6JNcBu95YwRgsxmBLOLa4JbgQnEykE0ZZQ8 |
 
-## Cualitativo
+#### Cualitativo
 Se realizaron entrevistas a psicólogos , a posibles de clientes y encuestas vía online.
 De las cuales se obtuvieron las siguientes conclusiones:
 
@@ -128,14 +146,14 @@ Del lado de posibles usuarios clientes:
 | ----       | ----           |
 | **Cualitativo** | https://docs.google.com/spreadsheets/d/1r6QHdtCX9JlUp3Cy0XJraAO09uZrSBxyhTVnNWc36Xk/edit?usp=drive_web&ouid=109279645272521929890|
 
-## Cuadro Features
+#### Cuadro Features
 Se elaboró 
 
 | Entregable | Documentación  |
 | ----       | ----           |
 | **Cuadro de Carácterísticas** | https://docs.google.com/spreadsheets/d/1TmDT6u987ON0rFvOlzHLsQHOcnVcQVMolUP7k2Qb02A/edit?usp=sharing|
 
-## User Persona
+#### User Persona
 Se ha elaborado un usuario de persona para caracterizar los tipos de usuario 
 - Psicologo que requiere agendar cita
 - Paciente  que requiere agendar cita
@@ -145,14 +163,15 @@ Se ha elaborado un usuario de persona para caracterizar los tipos de usuario
 | **User persona (Psicólogo)** |https://realtimeboard.com/app/board/o9J_kztSo_g=/ |
 | **User persona (Paciente)** |  https://realtimeboard.com/app/board/o9J_kzz_RTk=/|
 
-## PROTOTIPO
+#### Prototipo
 
 Se ha elaborado un prototipo en papel
 
 ![Inicio](assets/prototipo/papel-01.jpg)
 
 
-# DEMO
+
+# Demo
 
 Utilizando marvel se ha elaborado una demo del prototipo: 
 https://marvelapp.com/4jcf5ad/screen/40108295
