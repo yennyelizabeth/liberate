@@ -15,20 +15,14 @@ por los profesionales psicólogos independientes y pacientes que soliciten agend
 
 
 - [NECESIDAD DE RESOLVER UN PROBLEMA](#necesidad-de-resolver-un-problema)
-
-
-
 - [MODELO DE NEGOCIO](#modelo-de-negocio)
 - [STAKEHOLDERS](#stakeholders)
 - [PLAN RESEARCH](#plan-research)
 - [CRONOGRAMA DE ACTIVIDADES](#cronograma-de-actividades)
 - [KICK OFF](#kick-off)
-
 - [PROCESO RESEARCH](#-proceso-research)
-  - [Cuantitativo](#cuantitativo)
-   
+  - [Cuantitativo](#cuantitativo)   
   - [Cualitativo](#cualitativo)
-
 - [USER PERSONAS](#-user-personas)
 - [CARACTERÍSTICAS DEL PRODUCTO](#-características-del-producto)
 
@@ -39,7 +33,6 @@ por los profesionales psicólogos independientes y pacientes que soliciten agend
 | ---- | ---- | ---- |
 | **Paciente**  |Profesionales de psicología que brindan servicios|Agendar una cita de psicología|
 | **Psicólogo** |Personas que solicitan servicios de psicología |Agendar las citas de psicología |
-
 
 
 ## Tecnología (2)
@@ -95,6 +88,7 @@ De la oferta de atenciones psicológicas:
 - El 20% de la población requiere atención especializada de salud mental y ese 20% se traduce en 1'800,000 de posibles atenciones a nivel Lima.
 
 De la demanda de atenciones psicológicas:
+- Alrededor de 4 millones de peruanos tienen una enfermedad mental. 
 - En el Perú 2 de cada 10 peruanos dicen tener un familiar o amigo cercano con algún problema de salud mental.
 - 1 de cada 5 personas tiene un desorden mental.
 - En el Perú, cuatro millones de personas tienen alguna enfermedad mental, pero solo 800 mil reciben un tratamiento apropiado.
@@ -110,8 +104,25 @@ De la demanda de atenciones psicológicas:
 | **Cuantitativo** | https://drive.google.com/open?id=1DX7bC1Ke6JNcBu95YwRgsxmBLOLa4JbgQnEykE0ZZQ8 |
 
 ## Cualitativo
-Se realizaron entrevistas a psicólogos , a posibles de clientes y encuestas
-vía online.
+Se realizaron entrevistas a psicólogos , a posibles de clientes y encuestas vía online.
+De las cuales se obtuvieron las siguientes conclusiones:
+
+Del lado de profesionales de Psicología:
+- Importancia por la organización de tiempos y actividades
+- Agendan las citas por teléfono
+- No tienen un organizador de citas vía web o movil
+- Dentro de las ocurrencias de las citas programadas son: la derivación y reprogramación de cita
+- Si utilizarían un aplicativo web o movil
+- Prefieren que muestre los horarios disponibles, agendar cita, recordatorios de fecha de cita próxima y confirmación mutua previa al día.
+
+Del lado de posibles usuarios clientes:
+- Importancia por las atenciones psicológicas
+- No han utilizado una aplicación web o movil para agendar una cita
+- Prefieren elegir un psicólogo por recomendación
+- Importancia por que se pueda visualizar información del profesional
+- Importancia en la experiencia del psicólogo
+- Preferencia por visualizar los horarios disponibles
+- Si estarían dispuestos ayudar a un amigo o familiar cercano para  conctactar con un psicologo 
 
 | Entregable | Documentación  |
 | ----       | ----           |
@@ -139,7 +150,6 @@ Se ha elaborado un usuario de persona para caracterizar los tipos de usuario
 Se ha elaborado un prototipo en papel
 
 ![Inicio](assets/prototipo/papel-01.jpg)
-
 
 
 # DEMO
