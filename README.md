@@ -167,6 +167,12 @@ Se identificaron las características del producto através un análisis, tenien
 características a considerar:
 
 
+| Características | Descripción |
+| ----       | ----       |
+| **Psicólogo**  | Registro de: perfil, servicios, horarios, modalidad de atención  |
+| **Paciente** | Registro de: perfil, cita  |
+
+
 | Entregable | Documentación  |
 | ----       | ----           |
 | **Cuadro de Carácterísticas** | https://docs.google.com/spreadsheets/d/1TmDT6u987ON0rFvOlzHLsQHOcnVcQVMolUP7k2Qb02A/edit?usp=sharing|
