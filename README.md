@@ -35,6 +35,15 @@ Es una app
 
 # NECESIDAD DE RESOLVER UN PROBLEMA
 
+
+| Clientes(usuarios) |Necesidad   |
+| ----       | ---- |
+| **Paciente**  | Agendar una cita de psicología  |
+| **Psicólogo** | Agendar las citas de psicología |
+
+
+
+
 ## Usuarios (1)
 
 ### Psicólogos
@@ -105,8 +114,9 @@ Se ha elaborado un usuario de persona para caracterizar los tipos de usuario
 
 | Entregable | Documentación  |
 | ----       | ----           |
-| **User persona** |https://realtimeboard.com/app/board/o9J_kztSo_g=/?userEmail=yenny.quinones.jauregui@gmail.com&invite=2aaaaaaac10619b775f3ed210389ddc7-d48566c71733252-3783eecbcb89f49-58e0f0663eb6af1e&event=mailInvite&mailUserEmail=yenny.quinones.jauregui@gmail.com&track=true |
+| **User persona (Psicólogo)** |https://realtimeboard.com/app/board/o9J_kztSo_g=/ |
 
+| **User persona (Paciente)** |  https://realtimeboard.com/app/board/o9J_kzz_RTk=/ |
 # PROTOTIPO
 
 Se ha elaborado un prototipo en papel
