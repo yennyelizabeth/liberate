@@ -173,6 +173,12 @@ Se ha elaborado un prototipo en papel
 
 # Demo
 
+![Inicio](assets/prototipo/perfil.png)
+![Inicio](assets/prototipo/per-pac.png)
+![Inicio](assets/prototipo/per-psi.png)
+![Inicio](assets/prototipo/cita-ag.png)
+![Inicio](assets/prototipo/cita-agendada.png)
+
 Utilizando marvel se ha elaborado una demo del prototipo: 
 https://marvelapp.com/4jcf5ad/screen/40108295
 
