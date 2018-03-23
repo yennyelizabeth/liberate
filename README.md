@@ -22,11 +22,11 @@ por los profesionales psicólogos independientes y pacientes que soliciten agend
 - [Proceso Research](#-proceso-research)
   - [Cuantitativo](#cuantitativo)   
   - [Cualitativo](#cualitativo)
-- [User Personas](#-user-personas)
-- [Características del Producto](#-características-del-producto)
-- [Prototipo](#-prototipo)
-- [Demo](#-demo)
-- [Herramientas](#-herramientas)
+- [User Personas](#user-personas)
+- [Características del Producto](#características-del-producto)
+- [Prototipo](#prototipo)
+- [Demo](#demo)
+- [Herramientas](#herramientas)
 
 
 ## Necesidad de resolver un Problema
@@ -71,7 +71,7 @@ Diseñar una agenda de cita psicológicas
 - Información para elección por : servicio, ubicación, tarifa sesión
 
 
-## Model de Negocio
+## Modelo de Negocio
 
 Se identificó y elaboró un modelo de negocios.
 
@@ -150,14 +150,7 @@ Del lado de posibles usuarios clientes:
 | ----       | ----           |
 | **Cualitativo** | https://docs.google.com/spreadsheets/d/1r6QHdtCX9JlUp3Cy0XJraAO09uZrSBxyhTVnNWc36Xk/edit?usp=drive_web&ouid=109279645272521929890|
 
-## Características del producto
-Se elaboró 
-
-| Entregable | Documentación  |
-| ----       | ----           |
-| **Cuadro de Carácterísticas** | https://docs.google.com/spreadsheets/d/1TmDT6u987ON0rFvOlzHLsQHOcnVcQVMolUP7k2Qb02A/edit?usp=sharing|
-
-## User Persona
+## User Personas
 Se ha elaborado un usuario de persona para caracterizar los tipos de usuario 
 - Psicologo que requiere agendar cita
 - Paciente  que requiere agendar cita
@@ -166,6 +159,16 @@ Se ha elaborado un usuario de persona para caracterizar los tipos de usuario
 | ----       | ----           |
 | **User persona (Psicólogo)** |https://realtimeboard.com/app/board/o9J_kztSo_g=/ |
 | **User persona (Paciente)** |  https://realtimeboard.com/app/board/o9J_kzz_RTk=/|
+
+## Características del producto
+Se identificaron las características del producto através un análisis, teniendo como resultado las siguientes principales
+características a considerar:
+
+
+| Entregable | Documentación  |
+| ----       | ----           |
+| **Cuadro de Carácterísticas** | https://docs.google.com/spreadsheets/d/1TmDT6u987ON0rFvOlzHLsQHOcnVcQVMolUP7k2Qb02A/edit?usp=sharing|
+
 
 ## Prototipo
 
