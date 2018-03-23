@@ -7,9 +7,12 @@ por los profesionales psicólogos independientes y pacientes que soliciten agend
 ![Inicio](assets/prototipo/pantalla1.png)
 ![Inicio](assets/prototipo/pantalla2.png)
 
+
 ## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
 
 ## En  [Peru](http://peru.com)
+
+![Inicio](assets/prototipo/logo.jpg)
 
 # 🚩 Tabla de contenido
 
