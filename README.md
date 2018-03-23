@@ -96,26 +96,27 @@ Se elaboró un plan research , para conducir el proceso de investigación.
 Teniendo las siguientes conclusiones :
 
 Del lado del Profesional Psicólogo:
-- En Lima el sueldo promedio de un psicólogo que trabaja para el Estado es de aproximadamente S/ 1,800.
-- Los que están en el Servicio Rural Urbano Marginal en Salud (Serum) en Lima pueden ganar aproximadamente S/ 2,500 soles.
-- Los que trabajan en provincia el sueldo puede ser de S/ 4,000 soles.
+- En Lima el sueldo promedio de un psicólogo en el sector público es de apróx. S/ 1,800.
+- Los que están en el Servicio Rural Urbano Marginal en Salud (Serum) en Lima pueden ganar apróx. S/ 2,500 soles.
+- Los que trabajan en provincia el sueldo puede ser de apróx. S/ 4,000 soles.
 - Mientras que la consulta privada ha aumentado y dependiendo de la zona, en la clase media y clase alta pagan entre S/ 100 y S/ 150 por consulta a un psicólogo especialista o a los psicoterapeutas.
 
 De la oferta de atenciones psicológicas:
 - Necesidad de fortalecimiento de los sistemas de atención primaria.
-- Necesidad en inversión de campañas de concientización para que las personas.
-- Durante el 2016, en el Perú se implementaron 22 centros de salud mental comunitarios a lo largo de seis regiones.
-- En el Perú existe solo un psicólogo clínico por cada 10,000 habitantes, mientras que todo el país tiene menos de 1,000 psiquiatras.
+- Necesidad en inversión de campañas de concientización para las personas.
+- Durante el 2016, en el Perú se implementaron 22 centros de salud mental comunitarios en 6 regiones.
+- En el Perú existe solo un psicólogo clínico por cada 10,000 habitantes.
 - Perú tiene un déficit importante de profesionales especialistas en problemas de salud mental.
-- El 20% de la población requiere atención especializada de salud mental y ese 20% se traduce en 1'800,000 de posibles atenciones a nivel Lima.
+- El 20% de la población requiere atención especializada de salud mental.
+- El 20% se traduce en 1'800,000 de posibles atenciones a nivel Lima.
 
 De la demanda de atenciones psicológicas:
 - Alrededor de 4 millones de peruanos tienen una enfermedad mental. 
 - En el Perú 2 de cada 10 peruanos dicen tener un familiar o amigo cercano con algún problema de salud mental.
 - 1 de cada 5 personas tiene un desorden mental.
-- En el Perú, cuatro millones de personas tienen alguna enfermedad mental, pero solo 800 mil reciben un tratamiento apropiado.
+- En el Perú, 4 millones de personas tienen alguna enfermedad mental, pero solo 800 mil reciben un tratamiento apropiado.
 - Una de las principales causas es no reconocer adecuadamente los problemas de salud mental, o bien no se les brinda importancia.
-- La depresión y los trastornos de ansiedad son los más comunes no solo en el Perú y en el mundo.
+- La depresión y los trastornos de ansiedad son los más comunes en el Perú y en el mundo.
 - En el mundo 600 millones de personas sufren de depresión y trastornos de ansiedad.
 - El 80% de problemas de salud mental se podrían resolver en el primer nivel de atención.
 - El 80% de personas con esquizofrenia pueden recuperarse y dejar atrás los síntomas después de un año de tratamiento y apoyo de los seres queridos.
