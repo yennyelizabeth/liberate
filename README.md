@@ -13,17 +13,21 @@ por los profesionales psicólogos independientes y pacientes que soliciten agend
 
 # 🚩 Tabla de contenido
 
-- [NECESIDAD DE RESOLVER UN PROBLEMA](#necesidad-de-resolver-un-problema)
-- [MODELO DE NEGOCIO](#modelo-de-negocio)
-- [STAKEHOLDERS](#stakeholders)
-- [PLAN RESEARCH](#plan-research)
-- [CRONOGRAMA DE ACTIVIDADES](#cronograma-de-actividades)
-- [KICK OFF](#kick-off)
-- [PROCESO RESEARCH](#-proceso-research)
+- [Necesidad de resolver un problema](#necesidad-de-resolver-un-problema)
+- [Modelo de Negocio](#modelo-de-negocio)
+- [Stakeholders](#stakeholders)
+- [Plan Research](#plan-research)
+- [Cronograma de Actividades](#cronograma-de-actividades)
+- [Kick Off](#kick-off)
+- [Proceso Research](#-proceso-research)
   - [Cuantitativo](#cuantitativo)   
   - [Cualitativo](#cualitativo)
-- [USER PERSONAS](#-user-personas)
-- [CARACTERÍSTICAS DEL PRODUCTO](#-características-del-producto)
+- [User Personas](#-user-personas)
+- [Características del Producto](#-características-del-producto)
+- [Prototipo](#-prototipo)
+- [Demo](#-demo)
+- [Herramientas](#-herramientas)
+
 
 ## Necesidad de resolver un Problema
 
@@ -146,14 +150,14 @@ Del lado de posibles usuarios clientes:
 | ----       | ----           |
 | **Cualitativo** | https://docs.google.com/spreadsheets/d/1r6QHdtCX9JlUp3Cy0XJraAO09uZrSBxyhTVnNWc36Xk/edit?usp=drive_web&ouid=109279645272521929890|
 
-#### Cuadro Features
+## Características del producto
 Se elaboró 
 
 | Entregable | Documentación  |
 | ----       | ----           |
 | **Cuadro de Carácterísticas** | https://docs.google.com/spreadsheets/d/1TmDT6u987ON0rFvOlzHLsQHOcnVcQVMolUP7k2Qb02A/edit?usp=sharing|
 
-#### User Persona
+## User Persona
 Se ha elaborado un usuario de persona para caracterizar los tipos de usuario 
 - Psicologo que requiere agendar cita
 - Paciente  que requiere agendar cita
@@ -163,7 +167,7 @@ Se ha elaborado un usuario de persona para caracterizar los tipos de usuario
 | **User persona (Psicólogo)** |https://realtimeboard.com/app/board/o9J_kztSo_g=/ |
 | **User persona (Paciente)** |  https://realtimeboard.com/app/board/o9J_kzz_RTk=/|
 
-#### Prototipo
+## Prototipo
 
 Se ha elaborado un prototipo en papel
 
@@ -171,7 +175,9 @@ Se ha elaborado un prototipo en papel
 
 
 
-# Demo
+## Demo
+Se ha prototipado el diseño , y este está disponible en el siguiente link:
+https://marvelapp.com/4jcf5ad/screen/40108295
 
 ![Inicio](assets/prototipo/perfil.png)
 ![Inicio](assets/prototipo/per-pac.png)
@@ -179,8 +185,12 @@ Se ha elaborado un prototipo en papel
 ![Inicio](assets/prototipo/cita-ag.png)
 ![Inicio](assets/prototipo/cita-agendada.png)
 
-Utilizando marvel se ha elaborado una demo del prototipo: 
-https://marvelapp.com/4jcf5ad/screen/40108295
+
+## Herramientas
+| Herramientas | Entregable |
+| ----       | ----       |
+| **Figma**  | Prototipo  |
+| **Marvel** | Prototipo  |
 
 
 
