@@ -170,7 +170,7 @@ características a considerar:
 | Características | Descripción |
 | ----       | ----       |
 | **Psicólogo**  | Registro de: perfil, servicios, horarios, modalidad de atención  |
-| **Paciente** | Registro de: perfil, cita  |
+| **Paciente** | Registro de: perfil, cita ( elección de servicio, psicólogo, horario y modalidad de atención) |
 
 
 | Entregable | Documentación  |
