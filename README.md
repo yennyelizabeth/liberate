@@ -84,6 +84,7 @@ Del lado del Profesional Psicólogo:
 - En Lima el sueldo promedio de un psicólogo que trabaja para el Estado es de aproximadamente S/ 1,800.
 - Los que están en el Servicio Rural Urbano Marginal en Salud (Serum) en Lima pueden ganar aproximadamente S/ 2,500 soles.
 - Los que trabajan en provincia el sueldo puede ser de S/ 4,000 soles.
+- Mientras que la consulta privada ha aumentado y dependiendo de la zona, en la clase media y clase alta pagan entre S/ 100 y S/ 150 por consulta a un psicólogo especialista o a los psicoterapeutas.
 
 De la oferta de atenciones psicológicas:
 - Necesidad de fortalecimiento de los sistemas de atención primaria.
