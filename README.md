@@ -1,5 +1,6 @@
-#  
-Es una app
+#  LIBÉRATE
+Es una app que permite llevar una agenda de citas de psicología. Esta puede ser utilizada
+por los profesionales psicólogos independientes y pacientes que soliciten agendar una cita.
 
 ![Inicio](assets/inicio.png)
 
@@ -36,24 +37,12 @@ Es una app
 # NECESIDAD DE RESOLVER UN PROBLEMA
 
 
-| Clientes(usuarios) |Necesidad   |
-| ----       | ---- |
-| **Paciente**  | Agendar una cita de psicología  |
-| **Psicólogo** | Agendar las citas de psicología |
+| Clientes(usuarios) |Descripción  | Necesidad  relacionada |
+| ----       | ---- | ---- |
+| **Paciente**  |Profesionales de psicología que brindan servicios|Agendar una cita de psicología|
+| **Psicólogo** |Personas que solicitan servicios de psicología |Agendar las citas de psicología |
 
 
-
-
-## Usuarios (1)
-
-### Psicólogos
-Profesionales de psicología que brindan servicios de atención.
-
-### Clientes
-Las personas que solicitan una atención psicológica.
-
-### Necesidad Común de Usuarios (*)
-Agendar citas
 
 ## Tecnología (2)
 ### Herramientas Tecnológicas Utilizadas actualmente
