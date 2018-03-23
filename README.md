@@ -11,7 +11,7 @@ por los profesionales psicólogos independientes y pacientes que soliciten agend
 
 ## En  [Peru](http://peru.com)
 
-#🚩 Tabla de contenido
+# 🚩 Tabla de contenido
 
 
 - [NECESIDAD DE RESOLVER UN PROBLEMA](#necesidad-de-resolver-un-problema)
@@ -33,12 +33,10 @@ por los profesionales psicólogos independientes y pacientes que soliciten agend
 - [CARACTERÍSTICAS DEL PRODUCTO](#-características-del-producto)
 
 
+## NECESIDAD DE RESOLVER UN PROBLEMA
 
-# NECESIDAD DE RESOLVER UN PROBLEMA
-
-
-| Clientes(usuarios) |Descripción  | Necesidad  relacionada |
-| ----       | ---- | ---- |
+| Clientes(usuarios) |Descripción  | Necesidad relacionada |
+| ---- | ---- | ---- |
 | **Paciente**  |Profesionales de psicología que brindan servicios|Agendar una cita de psicología|
 | **Psicólogo** |Personas que solicitan servicios de psicología |Agendar las citas de psicología |
 
@@ -59,7 +57,7 @@ Un punto crítico es la parte de agendar citas.
 ### Necesidad de mejorar la propuesta de valor
 Agendar citas según el estilo de vida de los usuarios y sin mucha interacción.
 
-# MODELO DE NEGOCIO
+## MODELO DE NEGOCIO
 Se identificó y elaboró un modelo de negocios.
 
 | Entregable | Documentación  |
@@ -67,7 +65,7 @@ Se identificó y elaboró un modelo de negocios.
 | **Modelo de Negocio** | https://canvanizer.com/canvas/wKUTJtzmNCyw6  |
 
 
-# PROCESO RESEARCH
+## PROCESO RESEARCH
 
 ## Plan Research
 Se elaboró un plan research , para conducir el proceso de investigación.
@@ -106,7 +104,7 @@ Se ha elaborado un usuario de persona para caracterizar los tipos de usuario
 | **User persona (Psicólogo)** |https://realtimeboard.com/app/board/o9J_kztSo_g=/ |
 
 | **User persona (Paciente)** |  https://realtimeboard.com/app/board/o9J_kzz_RTk=/ |
-# PROTOTIPO
+## PROTOTIPO
 
 Se ha elaborado un prototipo en papel
 
