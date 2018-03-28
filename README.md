@@ -9,9 +9,6 @@ por los profesionales psicólogos independientes y pacientes que soliciten agend
 
 ## En  [Peru](http://peru.com)
 
-![liberate-1](https://user-images.githubusercontent.com/31896385/38058585-0866fecc-32a9-11e8-9d44-7efb0c5bdc0e.png)
-
-
 # 🚩 Tabla de contenido
 
 - [Necesidad de resolver un problema](#necesidad-de-resolver-un-problema)
@@ -29,6 +26,7 @@ por los profesionales psicólogos independientes y pacientes que soliciten agend
 - [Demo](#demo)
 - [Herramientas](#herramientas)
 
+![liberate-1](https://user-images.githubusercontent.com/31896385/38058585-0866fecc-32a9-11e8-9d44-7efb0c5bdc0e.png)
 
 ## Necesidad de resolver un Problema
 
