@@ -2,13 +2,14 @@
 Es una app que permite llevar una agenda de citas de psicología. Esta puede ser utilizada
 por los profesionales psicólogos independientes y pacientes que soliciten agendar una cita.
 
-![liberate-1](https://user-images.githubusercontent.com/31896385/38058585-0866fecc-32a9-11e8-9d44-7efb0c5bdc0e.png)
+![Inicio](assets/prototipo/logo.jpg)
 
-## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
+## Proyecto desarrollado en [Laboratoria](http://laboratoria.la) 
 
 ## En  [Peru](http://peru.com)
 
-![Inicio](assets/prototipo/logo.jpg)
+![liberate-1](https://user-images.githubusercontent.com/31896385/38058585-0866fecc-32a9-11e8-9d44-7efb0c5bdc0e.png)
+
 
 # 🚩 Tabla de contenido
 
