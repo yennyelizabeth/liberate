@@ -10,7 +10,6 @@ Es una app que permite llevar una agenda de citas de psicología. Esta puede ser
 
 
 ### 🚩 Tabla de contenido
-
 - [Necesidad de resolver un problema](#-necesidad-de-resolver-un-problema)
 - [Modelo de Negocio](#-modelo-de-negocio)
 - [Stakeholders](#-stakeholders)
