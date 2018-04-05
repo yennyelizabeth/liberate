@@ -1,5 +1,4 @@
-# LIBERATE
-
+# Libérate
 Es una app que permite llevar una agenda de citas de psicología. Esta puede ser utilizada
 por los profesionales psicólogos independientes y pacientes que soliciten agendar una cita.
 
