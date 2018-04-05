@@ -9,7 +9,7 @@ por los profesionales psicólogos independientes y pacientes que soliciten agend
 
 ## En  [Peru](http://peru.com)
 
-# 🚩 Tabla de contenido
+### 🚩 Tabla de contenido
 
 - [Necesidad de resolver un problema](#necesidad-de-resolver-un-problema)
 - [Modelo de Negocio](#modelo-de-negocio)
