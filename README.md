@@ -84,9 +84,6 @@ Se identificó y elaboró un modelo de negocios.
 ### Plan Research
 Se elaboró un plan research , para conducir el proceso de investigación.
 
-| Entregable | Documentación  |
-| ----       | ----           |
-| **Plan Research** |https://goo.gl/hQrRM1|
 
 #### Cuantitativo
 - Se realizó una recopilación de soluciones y data ya existentes.
@@ -121,9 +118,7 @@ De la demanda de atenciones psicológicas:
 - El 80% de personas con esquizofrenia pueden recuperarse y dejar atrás los síntomas después de un año de tratamiento y apoyo de los seres queridos.
 
 
-| Entregable | Documentación  |
-| ----       | ----           |
-| **Cuantitativo** | https://goo.gl/8ePPmj |
+
 
 #### Cualitativo
 Se realizaron entrevistas a psicólogos , a posibles de clientes y encuestas vía online.
@@ -146,9 +141,6 @@ Del lado de posibles usuarios clientes:
 - Preferencia por visualizar los horarios disponibles
 - Si estarían dispuestos ayudar a un amigo o familiar cercano para  conctactar con un psicologo 
 
-| Entregable | Documentación  |
-| ----       | ----           |
-| **Cualitativo** | https://goo.gl/eymUBG|
 
 ## User Personas
 Se ha elaborado un usuario de persona para caracterizar los tipos de usuario 
@@ -171,9 +163,6 @@ características a considerar:
 | **Paciente** | Registro de: perfil, cita ( elección de servicio, psicólogo, horario y modalidad de atención) |
 
 
-| Entregable | Documentación  |
-| ----       | ----           |
-| **Cuadro de Carácterísticas** | https://goo.gl/SkCKB1|
 
 
 ## Prototipo
