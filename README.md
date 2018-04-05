@@ -10,19 +10,7 @@ Es una app que permite llevar una agenda de citas de psicología. Esta puede ser
 
 
 ### 🚩 Tabla de contenido
-- [Necesidad de resolver un problema](#-necesidad-de-resolver-un-problema)
-- [Modelo de Negocio](#-modelo-de-negocio)
-- [Stakeholders](#-stakeholders)
-- [Plan Research](#-plan-research)
-- [Cronograma de Actividades](#-cronograma-de-actividades)
-- [Kick Off](#-kick-off)
-- [Proceso Research](#-proceso-research)
-  - [Cuantitativo](#-cuantitativo)   
-  - [Cualitativo](#-cualitativo)
-- [User Personas](#-user-personas)
-- [Características del Producto](#características-del-producto)
-- [Prototipo](#-prototipo)
-- [Demo](#-demo)
+
 
 
 ![liberate-1](https://user-images.githubusercontent.com/31896385/38058585-0866fecc-32a9-11e8-9d44-7efb0c5bdc0e.png)
