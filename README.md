@@ -24,7 +24,7 @@ Es una app que permite llevar una agenda de citas de psicología. Esta puede ser
 - [Características del Producto](#características-del-producto)
 - [Prototipo](#prototipo)
 - [Demo](#demo)
-- [Herramientas](#herramientas)
+
 
 ![liberate-1](https://user-images.githubusercontent.com/31896385/38058585-0866fecc-32a9-11e8-9d44-7efb0c5bdc0e.png)
 
@@ -184,7 +184,7 @@ https://marvelapp.com/4jcf5ad/screen/40108295
 ![Inicio](assets/prototipo/cita-agendada.png)
 
 
-## Herramientas
+
 | Herramientas | Entregable |
 | ----       | ----       |
 | **Figma**  | Prototipo  |
