@@ -86,7 +86,7 @@ Se elaboró un plan research , para conducir el proceso de investigación.
 
 | Entregable | Documentación  |
 | ----       | ----           |
-| **Plan Research** | https://docs.google.com/spreadsheets/d/1ELWfl1ws42sKunY-1b8Ck3FLGI6vIhlAEbsNI58uX3Y/edit#gid=0|
+| **Plan Research** |https://goo.gl/hQrRM1|
 
 #### Cuantitativo
 - Se realizó una recopilación de soluciones y data ya existentes.
@@ -123,7 +123,7 @@ De la demanda de atenciones psicológicas:
 
 | Entregable | Documentación  |
 | ----       | ----           |
-| **Cuantitativo** | https://drive.google.com/open?id=1DX7bC1Ke6JNcBu95YwRgsxmBLOLa4JbgQnEykE0ZZQ8 |
+| **Cuantitativo** | https://goo.gl/8ePPmj |
 
 #### Cualitativo
 Se realizaron entrevistas a psicólogos , a posibles de clientes y encuestas vía online.
@@ -148,7 +148,7 @@ Del lado de posibles usuarios clientes:
 
 | Entregable | Documentación  |
 | ----       | ----           |
-| **Cualitativo** | https://docs.google.com/spreadsheets/d/1r6QHdtCX9JlUp3Cy0XJraAO09uZrSBxyhTVnNWc36Xk/edit?usp=drive_web&ouid=109279645272521929890|
+| **Cualitativo** | https://goo.gl/eymUBG|
 
 ## User Personas
 Se ha elaborado un usuario de persona para caracterizar los tipos de usuario 
@@ -173,7 +173,7 @@ características a considerar:
 
 | Entregable | Documentación  |
 | ----       | ----           |
-| **Cuadro de Carácterísticas** | https://docs.google.com/spreadsheets/d/1TmDT6u987ON0rFvOlzHLsQHOcnVcQVMolUP7k2Qb02A/edit?usp=sharing|
+| **Cuadro de Carácterísticas** | https://goo.gl/SkCKB1|
 
 
 ## Prototipo
