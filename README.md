@@ -1,12 +1,13 @@
 # Libérate
-Es una app que permite llevar una agenda de citas de psicología. Esta puede ser utilizada
-por los profesionales psicólogos independientes y pacientes que soliciten agendar una cita.
+Es una app que permite llevar una agenda de citas de psicología. Esta puede ser utilizada por los profesionales psicólogos independientes y pacientes que soliciten agendar una cita.
 
 ![logo-liberate](https://user-images.githubusercontent.com/31896385/38059173-0e646722-32ab-11e8-8989-719a1b0fa56e.jpg)
 
-## Proyecto desarrollado en [Laboratoria](http://laboratoria.la) 
+
+## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
 
 ## En  [Peru](http://peru.com)
+
 
 ### 🚩 Tabla de contenido
 
