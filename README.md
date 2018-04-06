@@ -71,6 +71,9 @@ Se identificó y elaboró un modelo de negocios.
 ### Plan Research
 Se elaboró un plan research , para conducir el proceso de investigación.
 
+| Entregable | Documentación  |
+| ----       | ----           |
+| **Plan Research** |https://goo.gl/hQrRM1|
 
 #### Cuantitativo
 - Se realizó una recopilación de soluciones y data ya existentes.
@@ -105,6 +108,9 @@ De la demanda de atenciones psicológicas:
 - El 80% de personas con esquizofrenia pueden recuperarse y dejar atrás los síntomas después de un año de tratamiento y apoyo de los seres queridos.
 
 
+| Entregable | Documentación  |
+| ----       | ----           |
+| **Cuantitativo** | https://goo.gl/8ePPmj |
 
 
 #### Cualitativo
@@ -129,6 +135,10 @@ Del lado de posibles usuarios clientes:
 - Si estarían dispuestos ayudar a un amigo o familiar cercano para  conctactar con un psicologo 
 
 
+| Entregable | Documentación  |
+| ----       | ----           |
+| **Cualitativo** | https://goo.gl/eymUBG|
+
 ## User Personas
 Se ha elaborado un usuario de persona para caracterizar los tipos de usuario 
 - Psicologo que requiere agendar cita
@@ -138,6 +148,11 @@ Se ha elaborado un usuario de persona para caracterizar los tipos de usuario
 | ----       | ----           |
 | **User persona (Psicólogo)** |https://realtimeboard.com/app/board/o9J_kztSo_g=/ |
 | **User persona (Paciente)** |  https://realtimeboard.com/app/board/o9J_kzz_RTk=/|
+
+ Entregable | Documentación  |
+| ----       | ----           |
+| **Cuadro de Carácterísticas** | https://goo.gl/SkCKB1|
+
 
 ## Características del producto
 Se identificaron las características del producto através un análisis, teniendo como resultado las siguientes principales
@@ -160,7 +175,7 @@ Se ha elaborado un prototipo en papel
 
 
 
-##Demo
+## Demo
 Se ha prototipado el diseño , y este está disponible en el siguiente link:
 https://marvelapp.com/4jcf5ad/screen/40108295
 
