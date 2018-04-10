@@ -20,7 +20,7 @@ Es una app que permite llevar una agenda de citas de psicología. Esta puede ser
 ### Para quiénes?
 | Usuarios |Descripción  | Necesidad relacionada |
 | ---- | ---- | ---- |
-| **Paciente**  |Profesionales de psicología que brindan servicios|Agendar una cita de psicología|
+| **Pacientes**  |Profesionales de psicología que brindan servicios|Agendar una cita de psicología|
 | **Psicólogo** |Personas que solicitan servicios de psicología |Agendar las citas de psicología |
 
 ### Identificación de punto crítico en servicio de citas psicológicas
@@ -37,17 +37,16 @@ un punto crítico es la parte de agendar citas.
 | **Agendar através de movile** |Vía Movile | Requiere una llamada y email de confirmación   |
 
 ### Problema
-Agendar una cita implica para el psicólogo independiente
-- Organización manual
-- Encargar a una recepcionista
-- Constante coordinación con paciente para confirmación de cita
 
-Agendar una cita implica para el cliente ( paciente)
-- No tienen tiempo
-- Recomendación de experticia
-- Búsqueda del psicólogo adecuado
-- Diversidad de tarifas de sesiones
-- Horarios noche o de fines de semana
+|  Psicólogo Independiente |Paciente  |
+| ---- | ---- | ---- |
+| Organización manual | No tienen tiempo |
+| Encargar a una recepcionista | Recomendación de experticia |
+| Constante coordinación con paciente para confirmación de cita |  No tienen tiempo|
+|  | Búsqueda del psicólogo adecuado |
+|  | Diversidad de tarifas de sesiones |
+|  | Horarios noche o de fines de semana |
+
 
 Conclusiones 
 Diseñar una agenda de cita psicológicas
