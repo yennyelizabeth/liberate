@@ -39,7 +39,7 @@ un punto crítico es la parte de agendar citas.
 ### Problema
 
 |  Psicólogo Independiente |Paciente  |
-| ---- | ---- | ---- |
+| ---- | ---- |
 | Organización manual | No tienen tiempo |
 | Encargar a una recepcionista | Recomendación de experticia |
 | Constante coordinación con paciente para confirmación de cita |  No tienen tiempo|
