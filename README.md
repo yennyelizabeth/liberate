@@ -18,7 +18,7 @@ Es una app que permite llevar una agenda de citas de psicología. Esta puede ser
 ## Necesidad de resolver un Problema
 
 ### Para quiénes?
-| Clientes(usuarios) |Descripción  | Necesidad relacionada |
+| Usuarios |Descripción  | Necesidad relacionada |
 | ---- | ---- | ---- |
 | **Paciente**  |Profesionales de psicología que brindan servicios|Agendar una cita de psicología|
 | **Psicólogo** |Personas que solicitan servicios de psicología |Agendar las citas de psicología |
